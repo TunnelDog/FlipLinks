@@ -9,4 +9,5 @@ App(
     stack_size=2 * 1024,
     fap_icon="fliplinks.png",
     fap_category="Misc",
+
 )
